@@ -24,8 +24,4 @@
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 
-   <a href="https://www.facebook.com/seixasqlc/" alt="Facebook">
-    <img src="https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=FFF"/>
-  </a>
-  
 </div>
