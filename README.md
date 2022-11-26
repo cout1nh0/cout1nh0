@@ -9,7 +9,7 @@
 <div align="left">
 
    <a href="https://github.com/arthurspk" alt="Github">
-    <img src="https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=FFF"/>
+    <img src="https://img.shields.io/badge/-Github-363636?style=for-the-badge&logo=Github&logoColor=FFF"/>
   </a>
   
   <a href="https://www.linkedin.com/in/arthurspk/" alt="Linkedin">
