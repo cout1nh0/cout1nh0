@@ -8,16 +8,24 @@
 
 <div align="left">
 
+   <a href="https://github.com/arthurspk" alt="Github">
+    <img src="https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=FFF"/>
+  </a>
+  
   <a href="https://www.linkedin.com/in/arthurspk/" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=FFF"/>
   </a>
 
-  <a href="https://github.com/arthurspk" alt="Github">
-    <img src="https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=FFF"/>
-  </a>
-
-
   <a href="https://discord.gg/NbMQUPjHz7" alt="Discord">
     <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=FFF"/>
   </a>
+  
+     <a href="https://t.me/arthurguiadev" alt="Telegram">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+
+   <a href="https://www.facebook.com/seixasqlc/" alt="Facebook">
+    <img src="https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=FFF"/>
+  </a>
+  
 </div>
