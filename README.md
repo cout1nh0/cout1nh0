@@ -9,15 +9,15 @@
 <div align="left">
 
   <a href="https://www.linkedin.com/in/arthurspk/" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-ff3a5e?style=for-the-badge&logo=Linkedin&logoColor=FFF"/>
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=FFF"/>
   </a>
 
   <a href="https://github.com/arthurspk" alt="Github">
-    <img src="https://img.shields.io/badge/-Github-ff3a5e?style=for-the-badge&logo=Github&logoColor=FFF"/>
+    <img src="https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=FFF"/>
   </a>
 
 
   <a href="https://discord.gg/NbMQUPjHz7" alt="Discord">
-    <img src="https://img.shields.io/badge/-Discord-ff3a5e?style=for-the-badge&logo=Discord&logoColor=FFF"/>
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=FFF"/>
   </a>
 </div>
