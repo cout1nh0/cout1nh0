@@ -1,4 +1,4 @@
-<img src="logo.svg" width="300px" min-width="200px" max-width="200px" align="right" alt="Logo">
+<img src="logo.svg" width="200px" min-width="200px" max-width="200px" align="right" alt="Logo">
 
 <b>Hi, I'm Arthur ☕</b>
 
